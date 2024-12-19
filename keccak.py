@@ -1,3 +1,9 @@
+# Keccak implementation in Python
+# Authors: Francoise LAPETITE and Younes KARA ZAITRI
+
+# Usage: python keccak.py -a RATE <FILE_PATH>
+
+
 import sys
 
 sha3_rates = {

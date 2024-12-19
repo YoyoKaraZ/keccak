@@ -2,6 +2,12 @@
 
 This project provides a Python implementation of the Keccak hashing algorithm, which forms the basis of the SHA3 family of cryptographic hash functions. The implementation includes support for SHA3-224, SHA3-256, SHA3-384, and SHA3-512 hash lengths.
 
+## Authors
+
+- Francoise LAPETITE
+- Younes KARA ZAITRI
+
+
 ## Features
 
 - **Keccak Permutation Function**: Implements the core Keccak permutation logic.
